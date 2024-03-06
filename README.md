@@ -32,7 +32,7 @@ I'm Gabriel Saboya, a Junior Full Stack developer from Brazil.
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
 
 <a>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboyaa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboyaa&hide=makefile&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 <p align="center"> 
